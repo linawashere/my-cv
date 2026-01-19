@@ -13,7 +13,7 @@ function App() {
         <main>
           <div className="profile">
             <div className="main-photo">
-              <img src="src\assets\images\photo.jpg" alt="my photo" />
+              <img src="./images/photo.jpg" alt="my photo" />
             </div>
             <div className="intro">
               <h1>Grigorovich Polina</h1>

@@ -6,7 +6,7 @@ const Footer = () => {
                 <li>2026</li>
                 <li>
                     <a href="https://rs.school/courses/javascript-ru">
-                        <img className="footer__list-img" src="src\assets\images\rs-school-logo.svg" alt="rs school img" />
+                        <img className="footer__list-img" src="./images/rs-school-logo.svg" alt="rs school img" />
                     </a>
                 </li>
             </ul>
