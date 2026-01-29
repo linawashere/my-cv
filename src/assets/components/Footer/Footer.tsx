@@ -1,3 +1,5 @@
+import rsLogo from '/public/images/rs-school-logo.svg';
+
 const Footer = () => {
     return (
         <footer className="footer">
@@ -6,7 +8,7 @@ const Footer = () => {
                 <li>2026</li>
                 <li>
                     <a href="https://rs.school/courses/javascript-ru">
-                        <img className="footer__list-img" src="./images/rs-school-logo.svg" alt="rs school img" />
+                        <img className="footer__list-img" src={rsLogo} alt="rs school img" />
                     </a>
                 </li>
             </ul>
