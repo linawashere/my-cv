@@ -10,14 +10,14 @@ html {
 
 body {
   background: var(--bg);
-  background-image: url(.\assets\images\paper.png);
+  background-image: url(./images/paper.png);
 }
 
 .container {
   margin: 0 auto;
   max-width: 120rem;
   background: var(--bg-substrate);
-  background-image: url(.\assets\images\paper.png);
+  background-image: url(./images/paper.png);
   padding: 8rem;
 }
 
