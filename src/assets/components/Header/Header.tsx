@@ -1,9 +1,12 @@
+import '../../../App.css';
+import logo from '/public/images/photo_2025-07-10_13-41-10.jpg'
+
 const Header = () => {
     return (
         <header className="header">
             <div className="header__logo">
-                <a href="https://github.com/linawashere">
-                    <img src="./images/photo_2025-07-10_13-41-10.jpg" alt="logo" />
+                <a href="/">
+                    <img src={logo} alt="logo" />
                 </a>
             </div>
             <nav>
